@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+}
+
+td,
+th,
+tr {
+  border: black 2px solid;
+}
